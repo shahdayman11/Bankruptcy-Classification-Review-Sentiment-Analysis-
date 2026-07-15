@@ -1,1 +1,4 @@
-shahdayman11/Maram-Allah-portfolio
+playwright
+beautifulsoup4
+pandas
+lxml
